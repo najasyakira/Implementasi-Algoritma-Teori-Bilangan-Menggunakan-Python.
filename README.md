@@ -14,5 +14,3 @@ bertujuan untuk memenuhi tugas laporan praktikum matematika diskrit, repository 
 - konversi dari desimal ke hexadesimal
 - menghitung FPB seluruh bilangan
 - menghitung KPK seluruh bilangan
-
-  ## alur materi
