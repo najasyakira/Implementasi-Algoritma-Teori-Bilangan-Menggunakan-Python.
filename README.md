@@ -26,7 +26,7 @@ File program: `fungsi.py`
 | 3 | Ganjil | Ya | 3 |
 | 11 | Ganjil | Ya | B |
 | 2026 | Genap | Tidak | 7EA |
-| 9 | Ganjil | Tidak | 9 |
+| 9 | Ganjil | Ya | 9 |
 | 12 | Genap | Tidak | C |
 | 2006 | Genap | Tidak | 7D6 |
 
